@@ -1,0 +1,891 @@
+cd
+pa
+aro
+bau
+dvd
+fax
+fio
+giz
+ima
+pia
+veu
+arco
+base
+bata
+beca
+bide
+boia
+bola
+bone
+bota
+cabo
+cama
+cano
+capa
+cera
+chip
+clip
+cola
+cone
+cruz
+cuia
+dado
+diva
+elmo
+faca
+fita
+gibi
+grua
+iate
+ioio
+laco
+lata
+leme
+lira
+lona
+luva
+maca
+maio
+mala
+meia
+mesa
+mola
+oboe
+odre
+pino
+pipa
+pneu
+pote
+puff
+rack
+ralo
+rede
+remo
+roda
+rodo
+saia
+sino
+sofa
+taca
+taco
+tear
+tela
+toga
+tuba
+urna
+vaso
+vela
+xale
+abaco
+adaga
+agogo
+album
+anzol
+apito
+arpao
+baixo
+balao
+balsa
+banco
+banjo
+batom
+berco
+blusa
+blush
+boina
+bolsa
+bomba
+bongo
+botao
+broca
+bucha
+buque
+burca
+caixa
+calca
+canga
+canoa
+carta
+cesta
+cetro
+chave
+clava
+cocar
+cofre
+coifa
+conga
+corda
+cuica
+dardo
+dedal
+disco
+draga
+facao
+farda
+fogao
+foice
+forma
+forno
+funil
+fuzil
+gaita
+ganza
+garfo
+gesso
+gloss
+gorro
+harpa
+jarra
+jeans
+kunai
+lacre
+lanca
+lapis
+laque
+lenco
+lente
+leque
+livro
+lousa
+manta
+modem
+moeda
+motor
+mouse
+mural
+ofuro
+orgao
+papel
+parca
+pasta
+pedal
+pente
+piano
+pilao
+pinca
+pires
+placa
+pluma
+podio
+porta
+prato
+quepe
+radar
+radio
+redea
+regua
+rifle
+rimel
+rolha
+sabao
+sabre
+serra
+short
+spray
+sunga
+sutia
+tabua
+talco
+tampa
+tanga
+telha
+tenis
+terno
+tiara
+toldo
+touca
+trave
+trono
+tumba
+varal
+vidro
+viola
+ziper
+abajur
+agenda
+agulha
+alarme
+alaude
+aljava
+ancora
+anilha
+antena
+balaio
+barril
+bastao
+batina
+batuta
+bazuca
+biblia
+bicama
+biombo
+biruta
+bolero
+boneca
+bornal
+botina
+brinco
+broche
+buzina
+cabide
+caixao
+cajado
+calice
+calota
+camisa
+caneca
+caneta
+cantil
+canudo
+capelo
+cartao
+casaco
+caxixi
+chapeu
+cinzel
+coador
+colcha
+coldre
+colete
+colher
+comoda
+concha
+cracha
+cutelo
+diario
+domino
+enxada
+escova
+escudo
+espada
+espeto
+estaca
+estojo
+fagote
+fivela
+flauta
+flecha
+formao
+frasco
+fronha
+gaiola
+gancho
+gaveta
+grelha
+helice
+jaleco
+janela
+lajota
+lamina
+lencol
+luneta
+lustre
+maraca
+mastro
+missil
+oculos
+pacote
+paleto
+panela
+papete
+perola
+peruca
+peteca
+pijama
+pincel
+pipeta
+planta
+pomada
+poster
+punhal
+quadro
+rabeca
+rodape
+sapato
+sirene
+sombra
+sueter
+talher
+tambor
+tanque
+tapete
+tatame
+tecido
+tigela
+tijolo
+toalha
+toboga
+trofeu
+trompa
+tunica
+violao
+webcam
+xicara
+acetona  
+aldrava
+algodao  
+alicate
+amuleto  
+andador
+andaime  
+antolho
+aquario  
+armario
+azulejo  
+balanca
+baleiro  
+bambole
+bandana  
+baqueta
+barraca  
+batente
+bateria  
+beliche
+bengala  
+bigorna
+bilhete  
+biquini
+bisturi  
+cadarco
+cadeado  
+cadeira
+caderno  
+caixote
+camafeu  
+capacho
+capsula  
+carimbo
+carpeta  
+cartola
+catraca  
+celular
+ceroula  
+charuto
+chicote  
+chimbal
+chinelo  
+chupeta
+colchao  
+coleira
+colirio  
+collant
+confete  
+convite
+corneta  
+cornija
+corpete  
+cortina
+coturno  
+cristal
+echarpe  
+edredom
+enxoval  
+esmalte
+espelho  
+espiral
+esponja  
+estatua
+estribo  
+flamula
+foguete  
+fosgate
+freezer  
+fusivel
+galocha  
+garrafa
+granada  
+gravata
+haltere  
+incenso
+jangada  
+jaqueta
+la de aco
+lampada
+lampiao  
+lixeira
+machado  
+malhete
+maquete  
+marreta
+martelo  
+medalha
+micanga  
+mochila
+monitor  
+mordaca
+navalha  
+orelhao
+origami  
+palheta
+pantufa  
+pendulo
+peneira  
+penhoar
+perfume  
+pistola
+pochete  
+polaina
+porta cd 
+prancha
+puxador  
+quimono
+ralador  
+raquete
+rastelo  
+relogio
+retrato  
+revista
+rosario  
+saleiro
+sanfona  
+scanner
+seringa  
+serrote
+smoking  
+talisca
+tamanco  
+teclado
+tesoura  
+torpedo
+turbina  
+vasilha
+violino  
+viseira
+vitrola  
+volante
+zabumba
+abafador 
+alfinete
+almofada 
+apagador
+aparador 
+armadura
+asa delta
+autorama
+baioneta 
+bandeira
+bandolim 
+banqueta
+barbante 
+berimbau
+bilboque 
+binoculo
+boleador 
+bombacha
+borracha 
+cabresto
+cacarola 
+cachecol
+cachimbo 
+calcinha
+camburao 
+caminhao
+camiseta 
+camisola
+canivete 
+capacete
+captador 
+carretel
+carrinho 
+carteira
+castical 
+cavalete
+chaleira 
+charango
+chaveiro 
+chocalho
+chuteira 
+chuveiro
+cisterna 
+claquete
+cobertor 
+compasso
+conduite 
+corsario
+cotonete 
+diamante
+disquete 
+elastico
+envelope 
+escopeta
+esfregao 
+espatula
+esquadro 
+estilete
+etiqueta 
+exaustor
+fantasia 
+fantoche
+faqueiro 
+farolete
+ferrolho 
+fichario
+frigobar 
+fruteira
+gabinete 
+gangorra
+grinalda 
+guitarra
+hidrante 
+holofote
+ingresso 
+isqueiro
+leiteira 
+lembrete
+macaneta 
+macarico
+manequim 
+manivela
+megafone 
+molheira
+molinete 
+monoculo
+mouse pad
+narguile
+notebook 
+ombreira
+palmilha 
+pandeiro
+parafina 
+parafuso
+patinete 
+pe de pato
+pen drive
+persiana
+picareta 
+piercing
+pingente 
+poltrona
+ponteiro 
+pregador
+presilha 
+projetil
+pulseira 
+ratoeira
+revolver 
+roteador
+sabonete 
+sandalia
+saxofone 
+secadora
+semaforo 
+sombrero
+tamborim 
+tarracha
+telefone 
+torneira
+tridente 
+trombone
+trompete 
+turbante
+uniforme 
+vassoura
+xilofone
+adaptador  
+aerofolio
+agulheiro  
+amaciante
+ampulheta  
+aquecedor
+armadilha  
+assadeira
+bafometro  
+bagageiro
+balaclava  
+balaustre
+batedeira  
+betoneira
+bomba de ar
+bracelete
+brinquedo  
+cabideiro
+caderneta  
+cafeteira
+caldeirao  
+candeeiro
+caneleira  
+carrilhao
+cassetete  
+catapulta
+catavento  
+clarinete
+comedouro  
+corretivo
+crucifixo  
+espanador
+ferradura  
+ferrorama
+figurinha  
+filmadora
+fio dental 
+furadeira
+geladeira  
+giz de cera
+gramofone  
+guirlanda
+interfone  
+joelheira
+lamparina  
+lancheira
+lapiseira  
+luminaria
+mamadeira  
+mangueira
+marionete  
+meia calca
+microfone  
+minissaia
+paliteiro  
+parabrisa
+pe de cabra
+podadeira
+poncheira  
+queijeira
+ralo de pia
+reco-reco
+relicario  
+repelente
+sabao em po
+saladeira
+salto alto 
+sapateira
+sapatilha  
+sombrinha
+tabuleiro  
+televisao
+trampolim  
+triangulo
+video game
+abotoadura  
+acucareiro
+basculante  
+bola de gude
+borrifador  
+bronzeador
+bumerangue  
+caixa de som
+calcadeira  
+calibrador
+candelabro  
+cantoneira
+carretilha  
+cavaquinho
+cinta-liga  
+colchonete
+computador  
+cubo magico
+delineador  
+detergente
+espadrilha  
+espartilho
+espingarda  
+estandarte
+estilingue  
+farinheiro
+ferramenta  
+focinheira
+frasqueira  
+frigideira
+galheteiro  
+gel fixador
+grampeador  
+guarda-sol
+guardanapo  
+guilhotina
+hidratante  
+impressora
+jardineira  
+lantejoula
+lapis de cor
+lixa de unha
+luva de boxe
+mata-mosca
+mimeografo  
+novelo de la
+olho magico 
+pano de chao
+para-raios  
+paraquedas
+pergaminho  
+periscopio
+perna de pau
+pipoqueira
+po compacto 
+prateleira
+refratario  
+retrovisor
+revisteiro  
+serpentina
+soco ingles 
+sorveteira
+telescopio  
+termometro
+torradeira  
+triturador
+ventilador  
+violoncelo
+zarabatana
+alto falante 
+amortecedor
+arco e flecha
+castanholas
+cavalo de pau
+chave de boca
+chave de roda
+colher de pau
+contrabaixo  
+cotoveleira
+desodorante  
+despertador
+escapamento  
+escavadeira
+escumadeira  
+esparadrapo
+fita adesiva 
+fita cassete
+fogao a lenha
+forma de gelo
+gargantilha  
+lapis de olho
+lapis labial 
+micro-ondas
+microscopio  
+mosquiteiro
+munhequeira  
+nebulizador
+oculos de sol
+pano de prato
+penteadeira  
+pisca-pisca
+radio amador 
+rasteirinha
+rede de pesca
+rolo de massa
+saboneteira  
+saca-rolhas
+samba cancao 
+suspensorio
+travesseiro  
+unha postica
+bolsa de palha
+bolsa termica
+botijao de gas
+brilho labial
+cama elastica 
+camisa regata
+chave de fenda
+chave inglesa
+coqueteleira  
+criado-mudo
+desentupidor  
+desinfetante
+escorregador  
+estetoscopio
+farol de milha
+filtro de agua
+fita isolante 
+guarda-chuva
+guarda-roupa  
+meia arrastao
+mesa de sinuca
+metralhadora
+papel carbono 
+pulverizador
+quebra-nozes  
+relogio de sol
+sanduicheira  
+toalha de mesa
+tornozeleira  
+transferidor
+tubo de ensaio
+video cassete
+agua sanitaria 
+alicate de unha
+arvore de natal
+aspirador de po
+bola de boliche
+camisa de forca
+carrinho de mao
+cerca eletrica
+churrasqueira  
+condicionador
+desfibrilador  
+estabilizador
+lingua de sogra
+palito de dente
+panela de barro
+papel laminado
+quebra-cabeca  
+radio gravador
+retroprojetor  
+tinta de cabelo
+vaso sanitario
+abridor de latas
+afiador de facas
+bicho de pelucia
+cadeira de praia
+cadeira de rodas
+caixa de correio
+caixa de fosforo
+caneta hidrocor
+carrinho de bebe
+colete cervical
+controle remoto 
+cortador de unha
+garrafa termica 
+grampo de cabelo
+lente de contato
+liquidificador
+papel higienico 
+porta-retrato
+rede de descanso
+relogio de pulso
+saco de plastico
+serra eletrica
+cadeira eletrica 
+carrinho de feira
+cartao de credito
+cartao de memoria
+cartucho de tinta
+cortador de grama
+marcador de texto
+mesa de ping-pong
+palito de fosforo
+panela de pressao
+secador de cabelo
+abridor de garrafa
+antena parabolica
+apontador de lapis
+cadeira de balanco
+carrinho de rolima
+chapinha de cabelo
+cinto de seguranca
+curvador de cilios
+detector de metais
+esfigmomanometro
+espremedor de alho
+maquina de costura
+marcador de pagina
+multiprocessador
+ventilador de teto
+caixa registradora 
+depilador eletrico
+mascara de mergulho
+mascara de oxigenio
+perfurador de papel
+prendedor de cabelo
+protetor auricular
+escorredor de pratos 
+espremedor de frutas
+esteira ergometrica  
+extintor de incendio
+ferro de passar roupa
+maquina fotografica
+aparelho ortodontico 
+carregador de celular
+chapeu de aniversario
+maquina de lavar louca
+maquina de lavar roupa
+escorredor de macarrao
+carteira de habilitacao
+maquina de datilografar
